@@ -20,13 +20,7 @@ chrome/chromium browser automation library.
 Pyppeteer requires python 3.6+.
 (experimentally supports python 3.5)
 
-Install by pip from PyPI:
-
-```
-python3 -m pip install pyppeteer
-```
-
-Or install latest version from [github](https://github.com/miyakogi/pyppeteer):
+Install latest version from [github](https://github.com/inomoz/pyppeteer):
 
 ```
 python3 -m pip install -U git+https://github.com/miyakogi/pyppeteer.git@dev
